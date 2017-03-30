@@ -1,0 +1,688 @@
+
+<!DOCTYPE html>
+<!--[if IE8|IE9]><html class="isIE"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html><!--<![endif]-->
+
+<head id="PageHead"><title>
+	Heavenly Ski Resort Terrain Status | SkiHeavenly.com
+</title><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><link rel="canonical" href="http://www.skiheavenly.com/the-mountain/terrain-and-lift-status.aspx" /><link rel="shortcut icon" href="/Content/heavenly/themes/Default/images/favicon.ico" /><meta name="description" content="Check out which runs are open at Heavenly ski resort right from your computer with the Heavenly lift and terrain status. " /><meta name="keywords" content=",-" /><link rel="image_src" href="http://skiheavenly.com/~/media/global/logos/logo_heavenly.ashx" /><meta property="og:image" content="http://skiheavenly.com/~/media/global/logos/logo_heavenly.ashx" /><meta property="og:type" content="website" /><meta property="og:url" content="http://www.skiheavenly.com/the-mountain/terrain-and-lift-status.aspx" /><meta property="og:title" content="Terrain & Lift Status" /><meta property="og:description" content="Check out which runs are open at Heavenly ski resort right from your computer with the Heavenly lift and terrain status. " /><link type="text/css" rel="stylesheet" href="/_/bundler/6015540A/bundles/heavenly/default.css" />
+
+<script type="text/javascript" src="/_/bundler/6015540A/bundles/global.js"></script>
+
+    <!-- CUSTOM SCRIPT EMBED BEGIN: /sitecore/content/Global/Script Embed Folder/Heavenly/Heavenly Krux Code -->
+<script class="kxct" data-id="JkImP1fh" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JkImP1fh"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
+</script>    <!-- CUSTOM SCRIPT EMBED END: /sitecore/content/Global/Script Embed Folder/Heavenly/Heavenly Krux Code -->
+    <!-- CUSTOM SCRIPT EMBED BEGIN: /sitecore/content/Global/Script Embed Folder/TMS Global -->
+<!-- Start TMS Embed Code -->
+<script type="text/javascript"src="//nexus.ensighten.com/vailresorts/Bootstrap.js"></script>
+<!-- End TMS Embed Code -->    <!-- CUSTOM SCRIPT EMBED END: /sitecore/content/Global/Script Embed Folder/TMS Global -->
+</head>
+
+<body id="Dynamic" data-resort="heavenly"  >
+    <script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div id="fb-root"></div>
+    <form name="form1" method="post" action="/the-mountain/terrain-and-lift-status.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1OTc0MjIxNzgPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYEZg9kFgICAg8WAh4EVGV4dGVkAgEQZGQWCAIBD2QWAmYPZBYGAgEPFgIeB1Zpc2libGVoZAICD2QWAmYPZBYCZg9kFgICAQ9kFgwCAQ8WAh8BBQ5FeHBlcmllbmNlIEJhcmQCAw8WAh8CZxYUAgEPFgIfAQUBMGQCAw8WAh8BBQtMYXN0IDI0IEhyc2QCBQ8WAh8BBQpDT05ESVRJT05TZAIHDxYCHwEFEkxhdGVzdCBTbm93IFJlcG9ydGQCCQ8WAh8CZxYCAgEPFgIfAQUjTGFzdCB1cGRhdGVkIDAzLzMwLzIwMTcgYXQgMDc6MTMgQU1kAgsPZBYIAgEPZBYCAgEPFgIfAQUBMGQCAw9kFgICAQ8WAh8BBQEwZAIFD2QWAgIBDxYCHwEFATZkAgcPZBYCAgEPFgIfAQUBMGQCDQ9kFgQCAQ9kFgICAQ8WAh8BBQMxMzFkAgMPZBYCAgEPFgIfAQUDNjE1ZAIPD2QWAgIBDxYCHwEFB0dyb29tZWRkAhEPFgIfAmhkAhMPZBYEAgEPDxYEHgtOYXZpZ2F0ZVVybAUqL3RoZS1tb3VudGFpbi9zbm93LXJlcG9ydC9zbm93LXJlcG9ydC5hc3B4HwEFF1NlZSBmdWxsIHdlYXRoZXIgcmVwb3J0ZGQCAw8PFgQfAwUlL215LWFjY291bnQvbXktZW1haWwtcHJlZmVyZW5jZXMuYXNweB8BBR9TaWduIHVwIGZvciBzbm93IHJlcG9ydCB1cGRhdGVzZGQCBQ8WAh8CZxYQAgEPZBYCAgEPFgIfAQUCMjdkAgMPZBYCAgEPFgIfAQUCMTZkAgUPFgIfAQUHV0VBVEhFUmQCBw8PFgQeCEltYWdlVXJsBT4vQ29udGVudC9IZWF2ZW5seS90aGVtZXMvZGVmYXVsdC9pbWFnZXMvd2VhdGhlci1pY29ucy93aW5kLnBuZx4NQWx0ZXJuYXRlVGV4dAUgU2NhdHRlcmVkIFNub3cgU2hvd2VycyBhbmQgV2luZHkWAh4FdGl0bGUFIFNjYXR0ZXJlZCBTbm93IFNob3dlcnMgYW5kIFdpbmR5ZAIJDxYCHwEFFUxhdGVzdCBXZWF0aGVyIFJlcG9ydGQCCw8WAh8BBQEyZAINDxYCHgtfIUl0ZW1Db3VudAIGFgwCAQ9kFgJmDxUHD1RPREFZJ1MgV0VBVEhFUj4vQ29udGVudC9IZWF2ZW5seS90aGVtZXMvZGVmYXVsdC9pbWFnZXMvd2VhdGhlci1pY29ucy93aW5kLnBuZyBTY2F0dGVyZWQgU25vdyBTaG93ZXJzIGFuZCBXaW5keSBTY2F0dGVyZWQgU25vdyBTaG93ZXJzIGFuZCBXaW5keQIyNwIxNiBTY2F0dGVyZWQgU25vdyBTaG93ZXJzIGFuZCBXaW5keWQCAg9kFgJmDxUHCFRPTU9SUk9XAA9TdW5ueSBhbmQgV2luZHkPU3VubnkgYW5kIFdpbmR5AjM2AjI0D1N1bm55IGFuZCBXaW5keWQCAw9kFgJmDxUHCFNBVFVSREFZABtTdW5ueSBhbmQgQnJlZXp5IHRoZW4gU3VubnkbU3VubnkgYW5kIEJyZWV6eSB0aGVuIFN1bm55AjQ4AjMzG1N1bm55IGFuZCBCcmVlenkgdGhlbiBTdW5ueWQCBA9kFgJmDxUHBlNVTkRBWT0vQ29udGVudC9IZWF2ZW5seS90aGVtZXMvZGVmYXVsdC9pbWFnZXMvd2VhdGhlci1pY29ucy9zdW4ucG5nDE1vc3RseSBTdW5ueQxNb3N0bHkgU3VubnkCNDcCMjQMTW9zdGx5IFN1bm55ZAIFD2QWAmYPFQcGTU9OREFZPi9Db250ZW50L0hlYXZlbmx5L3RoZW1lcy9kZWZhdWx0L2ltYWdlcy93ZWF0aGVyLWljb25zL3dpbmQucG5nJ1NsaWdodCBDaGFuY2UgU25vdyBTaG93ZXJzIGFuZCBCbHVzdGVyeSdTbGlnaHQgQ2hhbmNlIFNub3cgU2hvd2VycyBhbmQgQmx1c3RlcnkCMzECMjEnU2xpZ2h0IENoYW5jZSBTbm93IFNob3dlcnMgYW5kIEJsdXN0ZXJ5ZAIGD2QWAmYPFQcHVFVFU0RBWT0vQ29udGVudC9IZWF2ZW5seS90aGVtZXMvZGVmYXVsdC9pbWFnZXMvd2VhdGhlci1pY29ucy9zdW4ucG5nDE1vc3RseSBTdW5ueQxNb3N0bHkgU3VubnkCNDECMzEMTW9zdGx5IFN1bm55ZAIPDxYCHwJoZAIJDxYCHwJnFgICAQ8PFgIfAwUnL3ZpZGVvLWFuZC1pbnRlcmFjdGl2ZS9oZWF2ZW5seS10di5hc3B4ZBYCAgEPFgIfAQUFVklERU9kAgsPFgIfAmcWAgIBDw8WAh8DBSkvdmlkZW8tYW5kLWludGVyYWN0aXZlL3Bob3RvLWdhbGxlcnkuYXNweGQWAgIBDxYCHwEFBlBIT1RPU2QCDQ8WAh8CZxYCAgEPDxYCHwMFJC92aWRlby1hbmQtaW50ZXJhY3RpdmUvd2ViLWNhbXMuYXNweGQWAgIBDxYCHwEFCFdFQiBDQU1TZAIFD2QWAmYPZBYCZg8WAh8CaGQCAw9kFgJmD2QWAmYPZBYCZg9kFgQCAQ9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgQCBA8QDxYGHg1EYXRhVGV4dEZpZWxkBQNrZXkeDkRhdGFWYWx1ZUZpZWxkBQV2YWx1ZR4LXyFEYXRhQm91bmRnZBAVCQpBY3Rpdml0aWVzC0NhciBSZW50YWxzCkNoaWxkIENhcmUMTGlmdCBUaWNrZXRzB0xvZGdpbmcOVmFjYXRpb24gRGVhbHMPUHJpdmF0ZSBTaHV0dGxlEVNjaGVkdWxlZCBTaHV0dGxlDVNlYXNvbiBQYXNzZXMVCSRiZDZlZjhiOS0xZjQ5LTQyZDQtOTFhNS0xMTZiY2QyN2RmOTEkNjA5ZmE0YjgtNWJhNS00OTNkLWJhZDYtMDY0ODQ3MGVjNjgyJGY5NmZkOTcyLTVmYjEtNGVmYS1iOTgzLWNiNjlhMmU2YjIxNiQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAkNTExODA1MTQtY2E3MS00OTAyLTg2ZTMtYWUzNDRhOWVlZjkxJGZmMGM2ZWU5LWQ2MTAtNDAyNS1iNDI4LWQ1ZjVlN2I0NGE4YiQ4NWMyYzE3NC1jYTNkLTRlYzQtYTI2MS0zNjQ1ODViNGM0YWIkOTg2NmM3MjQtM2ZjMS00YmVkLTkwOGEtYTVmNmZhNTIxY2RmJGJkMGU1YTIyLThmNTEtNDJiYy05MmI5LTExM2VhNWJkYjQzNxQrAwlnZ2dnZ2dnZ2dkZAIGDw8WAh8BBQJHb2RkAgMPZBYCZg9kFgICAg9kFgJmD2QWAgIDD2QWAmYPZBYCZg9kFgJmD2QWAmYPFgIeBWNsYXNzBRhjb2wxMDAgZ3JvdXBlZC1jb250ZW50ICAWAgIBDxYCHwJoZAIVDxYCHwFlZAIXDxYCHwFlZGTfJO6AhGWDX8lEri53vH6KNYdDkw==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="553C00D7" />
+</div>
+        
+        <div class="main-container">
+            <!-- Placeholder to support dynamically binding the main part of the page. -->
+            <div class="grid-container grid1-4">
+    <div class="grid-col col20">
+        
+<div class="tertiary-nav">
+    <h3>            <a href="/the-mountain/the-mountain-landing.aspx"  class=""  target="">MOUNTAIN </a>
+</h3>
+        <ul>
+                <li class="">            <a href="/the-mountain/snow-report/snow-report.aspx"  class=""  target="">Snow &amp; Weather Report</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/trail-map.aspx"  class=""  target="">Trail Map</a>
+
+                </li>
+                <li class="current">            <a href="/the-mountain/terrain-and-lift-status.aspx"  class=""  target="">Terrain &amp; Lift Status</a>
+
+                </li>
+                <li class="has-child">            <a href="/the-mountain/mountain-information/mountain-information.aspx"  class=""  target="">Mountain Information</a>
+
+                        <span class="toggle"></span>
+                        <ul>
+                                <li class="">            <a href="/the-mountain/the-mountain-landing.aspx"  class=""  target="">Mountain Improvements</a>
+</li>
+                        </ul>
+                </li>
+                <li class="">            <a href="/the-mountain/terrain-parks/terrain-parks.aspx"  class=""  target="">Terrain Parks</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/mountain-safety.aspx"  class=""  target="">Mountain Safety</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/snow-report/snowmaking-and-grooming.aspx"  class=""  target="">Snowmaking &amp; Grooming</a>
+
+                </li>
+                <li class="has-child">            <a href="http://www.skiheavenly.com/nightlife-and-activities/dining.aspx?floctype=Heavenly+Mountain"  class=""  target="">Mountain Dining</a>
+
+                        <span class="toggle"></span>
+                        <ul>
+                                <li class="">            <a href="/the-mountain/mountain-dining/appetite-for-life.aspx"  class=""  target="">Appetite for Life</a>
+</li>
+                                <li class="">            <a href="/the-mountain/mountain-dining/gourmet-picnic.aspx"  class=""  target="">Group Luncheon</a>
+</li>
+                        </ul>
+                </li>
+                <li class="">            <a href="/the-mountain/mountain-lab.aspx"  class=""  target="">Mountain Lab</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/environment.aspx"  class=""  target="">Environment</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/employment.aspx"  class=""  target="">Employment</a>
+
+                </li>
+                <li class="">            <a href="/the-mountain/adventurepeakwinter.aspx"  class=""  target="">Winter Activities</a>
+
+                </li>
+        </ul>
+</div><div id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_pnlPlanYourTrip">
+	
+<script type="text/javascript" src="/Content/js/planYourTrip.js"></script>
+
+<div id="plan-your-trip">
+    <h3 class="pyt-title"><span>Plan Your Trip</span></h3>
+    <div class="pyt-row"><input name="globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$calArriveDate" type="text" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_calArriveDate" readonly="readonly" placeholder="Arrival Date" /></div>
+    <div class="pyt-row"><input name="globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$calDepartDate" type="text" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_calDepartDate" readonly="readonly" placeholder="Departure Date" /></div>
+    <div class="pyt-row">
+        <select name="globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$ddlAdults" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_ddlAdults" class="qty adults">
+		<option selected="selected" value="">Adults</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+		<option value="13">13</option>
+		<option value="14">14</option>
+		<option value="15">15</option>
+		<option value="16">16</option>
+		<option value="17">17</option>
+		<option value="18">18</option>
+		<option value="19">19</option>
+	</select>
+        <select name="globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$ddlKids" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_ddlKids" class="qty kids">
+		<option selected="selected" value="">Kids</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+	</select>
+        <a class="modal-hook  info" data-modal-id="modal-040bc3678d7449b49980fc0062ab4928" href="javascript:void(0)"></a><div class="modal-window" id="modal-040bc3678d7449b49980fc0062ab4928">
+
+
+<div class="content-element  ">
+    
+
+        <div class="content">
+		<span style="COLOR: #000000">
+<table border="2" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td>
+<p><strong>Category</strong></p></td>
+<td>
+<p><strong>Age(s)</strong></p></td>
+<td>
+<p><strong>Notes</strong></p></td></tr>
+<tr>
+<td>
+<p>Lodging<br /><br /></p></td>
+<td>
+<p align="center">0-12 years<br /><br /></p></td>
+<td>
+<p>Children ages 12 and under qualify for a child lodging rate.<br />Child rates &amp; eligibility vary by lodging property. Extra person charges may apply.</p></td></tr>
+<tr>
+<td>
+<p>Lift Tickets<br /></p></td>
+<td>
+<p align="center">5-12 years</p></td>
+<td>
+<p>Children between ages 5 and 12 qualify for the child lift ticket rate.<br />4 &amp; under ski/ride free.</p></td></tr>
+<tr>
+<td>
+<p>Child Lessons<br /></p></td>
+<td>
+<p align="center">3-14 years<br /></p></td>
+<td>
+<p>Children between ages 3 and 14 qualify for a child lesson products.<br /></p></td></tr>
+<tr>
+<td>
+<p>Season Passes<br /></p></td>
+<td>
+<p align="center">5-12 years<br /></p></td>
+<td>
+<p>Children between ages 5 and 12 qualify for the child season pass rate.<br />4 &amp; under ski/ride free.</p></td></tr>
+<tr>
+<td>Child Care / Nursery<br /></td>
+<td>
+<p align="center">0-36 months</p></td>
+<td>Child Care / Nursery products are available for children up to 36 months old.</td></tr>
+<tr>
+<td>
+<p>Equipment Rentals<br /></p></td>
+<td>
+<p align="center">4-12 years<br /></p></td>
+<td>
+<p>Children ages 12 and under qualify for a child rental rates.<br />3 &amp; under products are not available online</p></td></tr>
+<tr>
+<td>
+<p>Ground Transportation</p></td>
+<td>
+<p align="center">n/a</p></td>
+<td>No special pricing for children.</td></tr>
+<tr>
+<td>Airline Tickets</td>
+<td>
+<p align="center">n/a</p></td>
+<td>No special pricing for children.</td></tr></tbody></table></span>
+</div>
+    </div>
+</div>
+        
+    </div>
+    <div class="pyt-row">
+        <select name="globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$ddlProducts" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_ddlProducts" class="pytProducts">
+		<option value="bd6ef8b9-1f49-42d4-91a5-116bcd27df91">Activities</option>
+		<option value="609fa4b8-5ba5-493d-bad6-0648470ec682">Car Rentals</option>
+		<option value="f96fd972-5fb1-4efa-b983-cb69a2e6b216">Child Care</option>
+		<option value="00000000-0000-0000-0000-000000000000">Lift Tickets</option>
+		<option selected="selected" value="51180514-ca71-4902-86e3-ae344a9eef91">Lodging</option>
+		<option value="ff0c6ee9-d610-4025-b428-d5f5e7b44a8b">Vacation Deals</option>
+		<option value="85c2c174-ca3d-4ec4-a261-364585b4c4ab">Private Shuttle</option>
+		<option value="9866c724-3fc1-4bed-908a-a5f6fa521cdf">Scheduled Shuttle</option>
+		<option value="bd0e5a22-8f51-42bc-92b9-113ea5bdb437">Season Passes</option>
+
+	</select>
+    </div>
+    
+    <div class="pyt-row">
+        <input type="hidden" id="planBtnTags" value="skiheavenly:the-mountain:Terrain & Lift Status:planning_widget" />
+        <a onclick="return submitForm();" id="globalmaincontent_0_1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1_btnStartPlanning" class="btn default submit" href="javascript:__doPostBack(&#39;globalmaincontent_0$1wideleftcolumn86fb142ceb094ec8b1cb174e99402497_1$btnStartPlanning&#39;,&#39;&#39;)">Go</a>
+    </div>
+    <p class="pyt-footnote">Book online or call 866-736-8245 (+1-775-364-1129) to speak with a local expert.</p>
+</div>
+
+</div>
+
+
+
+
+<div class="content-element  ">
+    <a href='http://nightlife.skiheavenly.com/apres' class='content-image-link' target='_blank' ><img src='/~/media/heavenly/images/155x87 promo images/155x240unbuckle2014-10.9.14.ashx?h=240&amp;w=155&amp;title=' alt='' class='content-image' title='' height='240' width='155' /></a>
+
+        <div class="content"><p>&nbsp;</p></div>
+            <div class="content-link">
+            <a href='http://nightlife.skiheavenly.com/apres' class='btn' target='_blank' text='Explore Unbuckle' title='' >Explore Unbuckle</a>
+        </div>
+</div>
+
+    </div><div class="grid-col col80">
+        
+
+<div class="main-header">
+    <h1 class="page-title">Terrain & Lift Status</h1>
+
+</div><div class="page-body">
+    <br>
+<br>
+<h3>Updated throughout the day, below you’ll find the current status for all lifts and runs on the mountain.&nbsp; The Twitter feed (<a href="https://twitter.com/HVconditions" target="_blank">@HVConditions</a>) on the right will give you up-to-the-minute info from around the mountain.</h3>
+<h3><span>For text updates throughout the day text the word “HEAVENLY” to 99-000.&nbsp; You’ll receive daily info on lift operations, terrain, snow totals and parking. You’ll always know what's going on here at Heavenly!</span></h3>
+<p><span><br>
+</span></p>
+<h4>Lift status that is set as “Open” prior to 9:00 a.m. Mon-Fri and 8:30 a.m. Sat-Sun indicates which lifts are SCHEDULED to open for the day, weather permitting. Due to changing weather, scheduled lifts may change to “Hold” or “Closed” status upon opening.</h4>
+<div><br>
+<div><br>
+</div>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+<div class="sub-grid-container grid3-1">
+    <div class="grid-col col100">
+        
+
+
+<div class="content-element  ">
+    
+
+        <div class="content"><p><iframe width="530px" height="4700x" src=" http://m.skiheavenly.com/desktop-grooming.html" frameborder="0"></iframe></p></div>
+    </div>
+
+    </div><div class="grid-col col25">
+        <div id="globalmaincontent_0_4widecolumn86fb142ceb094ec8b1cb174e99402497_2_31widecolumn1296148bf18194a59a8bed49b0832ce61_0_Container" class="col100 grouped-content  ">
+    
+    <div class="grouped-content-body">    <!-- CUSTOM SCRIPT EMBED BEGIN: /sitecore/content/Global/Script Embed Folder/Heavenly/Heavenly twitter feed -->
+<a class="twitter-timeline" data-width="100" data-height="800" data-theme="dark" href="https://twitter.com/HVconditions">Condition Updates</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</br><br />    <!-- CUSTOM SCRIPT EMBED END: /sitecore/content/Global/Script Embed Folder/Heavenly/Heavenly twitter feed -->
+</div>
+</div>
+    </div>
+</div>
+    </div>
+</div><!-- end grid-container grid1-4 -->
+        </div>
+        
+
+<footer>
+    <div class="footer-list-wrap">
+        
+                <ul class="footer-list">
+                    <li class="footer-list-item head">
+                        <strong>HEAVENLY</strong>
+                    </li>
+                    
+                            <li class="footer-list-item">
+                                <a href="/lake-tahoe/lake-tahoe.aspx" class="footer-list-item-a">
+                                    
+                                    Lake Tahoe
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/the-mountain/the-mountain-landing.aspx" class="footer-list-item-a">
+                                    
+                                    The Mountain
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/tickets-and-passes/tickets-and-passes.aspx" class="footer-list-item-a">
+                                    
+                                    Tickets & Passes
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="https://www.skiheavenly.com/plan-your-trip/ski-and-ride-lessons.aspx" class="footer-list-item-a">
+                                    
+                                    Ski & Ride School
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/nightlife-and-activities/nightlife-and-activities.aspx" class="footer-list-item-a">
+                                    
+                                    Nightlife & Activities
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/plan-your-trip/plan-your-trip.aspx" class="footer-list-item-a">
+                                    
+                                    Plan A Trip
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/video-and-interactive/interactive-landing.aspx" class="footer-list-item-a">
+                                    
+                                    Video & More
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/plan-your-trip/child-care-and-nursery/nursery-sch.aspx" class="footer-list-item-a">
+                                    
+                                    Family
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.snow.com/faqdetail/Mountain-Information/What-is-Vail-Resorts-partnership-with-the-US-Forest-Service-in-tahoe.axd" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl00_rptFooterLinks_ctl08_LinkImage" class="footer-list-item-img" src="/~/media/images/snow/content%20element%20images/partner%20logos/footer%20images/usforestservicere.ashx" style="height:28px;width:30px;border-width:0px;" />
+                                    US Forest Service
+                               </a>
+                            </li>
+                        
+                </ul>
+            
+                <ul class="footer-list">
+                    <li class="footer-list-item head">
+                        <strong>FOLLOW US</strong>
+                    </li>
+                    
+                            <li class="footer-list-item">
+                                <a href="http://www.facebook.com/SkiHeavenly" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl00_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/facebook.ashx" alt="Facebook" style="height:17px;width:17px;border-width:0px;" />
+                                    Facebook
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://twitter.com/skiheavenly" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl01_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/twitter.ashx" alt="Twitter" style="height:17px;width:17px;border-width:0px;" />
+                                    Twitter
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.youtube.com/user/HeavenlyMtnResort" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl02_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/youtube.ashx" alt="YouTube" style="height:17px;width:17px;border-width:0px;" />
+                                    YouTube
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://m.skiheavenly.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl03_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/mobile.ashx" alt="Mobile" style="height:17px;width:17px;border-width:0px;" />
+                                    Mobile
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/rss/rss.aspx" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl04_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/rss.ashx" alt="RSS" style="height:17px;width:17px;border-width:0px;" />
+                                    RSS
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/my-account/my-email-preferences.aspx" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl01_rptFooterLinks_ctl05_LinkImage" class="footer-list-item-img" src="/~/media/global/social%20media%20footer%20icon/email-footer-ltgrey.ashx" alt="email-footer-light" style="height:17px;width:17px;border-width:0px;" />
+                                    Email
+                               </a>
+                            </li>
+                        
+                </ul>
+            
+                <ul class="footer-list">
+                    <li class="footer-list-item head">
+                        <strong>OUR SITES</strong>
+                    </li>
+                    
+                            <li class="footer-list-item">
+                                <a href="http://www.vail.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl00_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/vail.ashx" alt="Vail" style="height:17px;width:17px;border-width:0px;" />
+                                    Vail
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.beavercreek.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl01_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/beavercreek.ashx" alt="Beaver Creek" style="height:17px;width:17px;border-width:0px;" />
+                                    Beaver Creek
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.breckenridge.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl02_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/breckenridge.ashx" alt="Breckenridge" style="height:17px;width:17px;border-width:0px;" />
+                                    Breckenridge
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.keystoneresort.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl03_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/keystone.ashx" alt="Keystone" style="height:17px;width:17px;border-width:0px;" />
+                                    Keystone
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.parkcitymountain.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl04_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/parkcity.ashx" alt="Park City" style="height:17px;width:17px;border-width:0px;" />
+                                    Park City
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.northstarcalifornia.com/" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl05_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/northstar.ashx" alt="Northstar" style="height:17px;width:17px;border-width:0px;" />
+                                    Northstar California
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.kirkwood.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl06_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/kirkwood.ashx" alt="Kirkwood" style="height:17px;width:17px;border-width:0px;" />
+                                    Kirkwood
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.aftonalps.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl07_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/aftonalps.ashx" alt="aftonalps" style="height:17px;width:17px;border-width:0px;" />
+                                    Afton Alps
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.mtbrighton.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl08_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/mtbrighton.ashx" alt="mtbrighton" style="height:17px;width:17px;border-width:0px;" />
+                                    Mt. Brighton
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.wilmotmountain.com/" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl09_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/wilmot%20logo.ashx" alt="Wilmot " style="height:17px;width:17px;border-width:0px;" />
+                                    Wilmot
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.snow.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl10_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/snow.ashx" alt="Snow.com" style="height:17px;width:17px;border-width:0px;" />
+                                    Snow.com
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.snow.com/epic-pass.aspx" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl11_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/epicpass.ashx" alt="EpicPass" style="height:18px;width:18px;border-width:0px;" />
+                                    Epic Pass
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.epicmix.com" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl02_rptFooterLinks_ctl12_LinkImage" class="footer-list-item-img" src="/~/media/heavenly/footer_icons/epicmix.ashx" alt="Epic Mix" style="height:17px;width:17px;border-width:0px;" />
+                                    EpicMIX
+                               </a>
+                            </li>
+                        
+                </ul>
+            
+                <ul class="footer-list">
+                    <li class="footer-list-item head">
+                        <strong>CORPORATE INFORMATION</strong>
+                    </li>
+                    
+                            <li class="footer-list-item">
+                                <a href="http://www.vailresorts.com" class="footer-list-item-a">
+                                    
+                                    Vail Resorts
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://news.vailresorts.com/" class="footer-list-item-a">
+                                    
+                                    Press Room
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/the-mountain/employment.aspx" class="footer-list-item-a">
+                                    
+                                    Jobs
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.epicpromise.com" class="footer-list-item-a">
+                                    
+                                    EpicPromise
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/customer-service/contact-us.aspx" class="footer-list-item-a">
+                                    
+                                    Contact Us
+                               </a>
+                            </li>
+                        
+                </ul>
+            
+                <ul class="footer-list">
+                    <li class="footer-list-item head">
+                        <strong>IN PARTNERSHIP WITH</strong>
+                    </li>
+                    
+                            <li class="footer-list-item">
+                                <a href="http://www.snow.com/info/pepsi.aspx" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl04_rptFooterLinks_ctl00_LinkImage" class="footer-list-item-img" src="/~/media/global/partners/pepsi.ashx" alt="Pepsi" style="height:26px;width:74px;border-width:0px;" />
+                                    
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="http://www.verizonwireless.com/" class="footer-list-item-a">
+                                    <img id="ctl04_rptFooterLists_ctl04_rptFooterLinks_ctl01_LinkImage" class="footer-list-item-img" src="/~/media/images/snow/content%20element%20images/partner%20logos/footer%20images/vzw-logo.ashx" alt="vzw-logo" style="height:18px;width:78px;border-width:0px;" />
+                                    
+                               </a>
+                            </li>
+                        
+                            <li class="footer-list-item">
+                                <a href="/partners.aspx" class="footer-list-item-a">
+                                    
+                                    View All Partners
+                               </a>
+                            </li>
+                        
+                </ul>
+            
+        <div class="footer-copyright">
+            <p>
+                &copy; 1997-2017 Vail Resorts Management Company. All Rights Reserved.
+                <a href='/terms-and-conditions.aspx' >Terms and Conditions</a>
+                                 | <a href='/sitemap.aspx' >Site Map</a>
+                                 | <a href='/privacy.aspx' >Privacy Policy</a>
+                                
+            </p>
+        </div>
+    </div>
+</footer>
+
+        <input type="hidden" name="hdnTxtShowSlideShow" id="hdnTxtShowSlideShow" /> 
+        <!-- This is for old browsers -->
+        <div class="no-support">
+            <div class="no-support-close">X</div>
+            <h2 class="no-support-head">Did you know that your browser is out of date?</h2>
+            <p class="no-support-text">To get the best possible experience using our websites we recommend that you upgrade to a newer browser.  A list of the most popular web browsers can be found below.
+                <br/><br/>Click on an icon to go to the download page.</p>
+            <ul class="browser-list">
+                <li class="browser-list-item">
+                    <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="browser-list-a">
+                        <img src="/VailResorts/sites/global/assets/img/blank.gif" class="browser-list-img ie" />
+                    </a>
+                </li>
+                <li class="browser-list-item">
+                    <a href="http://www.mozilla.org/en-US/firefox/new/" class="browser-list-a">
+                        <img src="/VailResorts/sites/global/assets/img/blank.gif" class="browser-list-img mozilla" />
+                    </a>
+                </li>
+                <li class="browser-list-item">
+                    <a href="https://www.google.com/intl/en/chrome/browser/" class="browser-list-a">
+                        <img src="/VailResorts/sites/global/assets/img/blank.gif" class="browser-list-img chrome" />
+                    </a>
+                </li>
+                <li class="browser-list-item">
+                    <a href="http://www.apple.com/safari/" class="browser-list-a">
+                        <img src="/VailResorts/sites/global/assets/img/blank.gif" class="browser-list-img safari" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="no-support-background"></div>
+        <input type="hidden" name="hdLodgingMinDate" id="hdLodgingMinDate" />
+        <input type="hidden" name="hdMinDate" id="hdMinDate" />
+        <input type="hidden" name="hdMaxDate" id="hdMaxDate" />
+        <input type="hidden" name="hdnReminderModalEnabled" id="hdnReminderModalEnabled" />
+        <input type="hidden" name="hdnReminderModalHeader" id="hdnReminderModalHeader" />
+        <input type="hidden" name="hdnReminderModalBody" id="hdnReminderModalBody" />
+        
+        
+    </form>
+    <input type="hidden" id="csrfToken" value="Do6JvSrCnvVbt7vaUGuY1fuRKiulQ45twJI6iN47cdD-gTZdlzhkjHXIflMt3Wj45lP6Xx9s0FvusdxMjPSplpeiCxM1:SHD2WGlzk5lE_pt8qcbJX1IrQw4GOUS0XcmejoEjFalV6E28Y2m41Xzcwy_0JgWUGMDAi4An3gh-eHzuzXyTSR8gFs81" />
+    <!-- SiteCatalyst code version: H.16.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="/VailResorts/sites/global/assets/js/tagging/s_code.js"></script>
+<script type="text/javascript">
+ s.pageName="skiheavenly:the-mountain:Terrain & Lift Status";
+ s.channel="";
+ s.hier1="skiheavenly,the-mountain,Terrain & Lift Status";
+OmnitureTracking.pageViewType = 'None';
+ s.prop1="skiheavenly";
+ s.prop2="skiheavenly:the-mountain";
+ s.prop3="skiheavenly:the-mountain:Terrain & Lift Status";
+ s.prop4="skiheavenly:the-mountain:Terrain & Lift Status";
+ s.prop75="D=v75";
+ s.prop73="D=v73";
+ s.prop10="D=v10";
+ s.prop11="D=v11";
+ s.prop7="Logged Out";
+ s.eVar75="";
+ s.eVar73="";
+ s.eVar10="";
+ s.eVar11="";
+ s.eVar7="D=c7";
+
+$(document).ready(function() {    
+CurrentResort = 'Heavenly';
+if (typeof OmnitureTracking !== 'undefined' && typeof OmnitureTracking.PageTrackingCallback === 'function' && false){
+}
+else {
+   s.t();
+if (typeof OmnitureTracking !== 'undefined') {
+OmnitureTracking.pageLoadCalled = true; }
+}
+});</script><!--END OMNITURE CODE-->
+
+    
+    
+</body>
+</html>
